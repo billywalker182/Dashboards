@@ -11,3 +11,12 @@ beis = "rgb(211,211,211)"
 gris2 = "rgb(245,243,244)"->BEIS
 cafe_f = "rgb(66,66,66)"
 colors=[beis,gris2,gris1,cafe_f,verde_c,cyan,verde,azul_o,azul_m,negro,rojo2,rojo1]
+
+---------------------------------------------------------------------------
+			::NUEVOS COLORES::
+b42f29	Rojo
+353531	Gris
+EC4E20	Zapote
+FF9505	Amarillo
+016FB9	Azul
+000000	Negro
