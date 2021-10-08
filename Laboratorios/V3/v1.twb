@@ -7946,8 +7946,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2700' minheight='2700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='264' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97786' id='263' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
+            <zone h='100000' id='266' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97786' id='265' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
                 <zone fixed-size='110' h='13785' id='3' is-fixed='true' is-scaled='1' param='C:/Users/jhone.cruz/OneDrive - Universidad del rosario/Documentos/Dashboards/Accesorios/LOGO UR ap UROSARIO UR EMPRENDA-02.png' type-v2='bitmap' w='30710' x='428' y='726'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -8409,8 +8409,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2600' minheight='2600' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='256' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97786' id='255' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
+            <zone h='100000' id='258' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97786' id='257' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
                 <zone fixed-size='110' h='13785' id='3' is-fixed='true' is-scaled='1' param='C:/Users/jhone.cruz/OneDrive - Universidad del rosario/Documentos/Dashboards/Accesorios/LOGO UR ap UROSARIO UR EMPRENDA-02.png' type-v2='bitmap' w='30710' x='428' y='726'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -8815,8 +8815,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2400' minheight='2400' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='250' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97786' id='249' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
+            <zone h='100000' id='252' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97786' id='251' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
                 <zone fixed-size='110' h='13785' id='3' is-fixed='true' is-scaled='1' param='C:/Users/jhone.cruz/OneDrive - Universidad del rosario/Documentos/Dashboards/Accesorios/LOGO UR ap UROSARIO UR EMPRENDA-02.png' type-v2='bitmap' w='30710' x='428' y='726'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -9124,8 +9124,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1650' minheight='1650' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='252' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97786' id='251' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
+            <zone h='100000' id='254' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97786' id='253' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
                 <zone fixed-size='110' h='13785' id='3' is-fixed='true' is-scaled='1' param='C:/Users/jhone.cruz/OneDrive - Universidad del rosario/Documentos/Dashboards/Accesorios/LOGO UR ap UROSARIO UR EMPRENDA-02.png' type-v2='bitmap' w='30710' x='428' y='726'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -9386,8 +9386,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1650' minheight='1650' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='258' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97786' id='257' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
+            <zone h='100000' id='260' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97786' id='259' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
                 <zone fixed-size='110' h='13785' id='3' is-fixed='true' is-scaled='1' param='C:/Users/jhone.cruz/OneDrive - Universidad del rosario/Documentos/Dashboards/Accesorios/LOGO UR ap UROSARIO UR EMPRENDA-02.png' type-v2='bitmap' w='30710' x='428' y='726'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -9660,8 +9660,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1400' minheight='1400' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='250' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97786' id='249' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
+            <zone h='100000' id='252' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97786' id='251' param='vert' type-v2='layout-flow' w='98848' x='576' y='1107'>
                 <zone fixed-size='110' h='13785' id='3' is-fixed='true' is-scaled='1' param='C:/Users/jhone.cruz/OneDrive - Universidad del rosario/Documentos/Dashboards/Accesorios/LOGO UR ap UROSARIO UR EMPRENDA-02.png' type-v2='bitmap' w='30710' x='428' y='726'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
